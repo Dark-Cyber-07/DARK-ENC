@@ -33,7 +33,7 @@ python ENC.py
 
 <h5 align="center"><b>TERMUX > </b></h5>
 
-<p align="center"><img src="Screenshot_2024-02-26-15-04-03-23_f598e1360c96b5a5aa16536c303cff92.jpg">
+<p align="center"><img src="IMG.png">
 
 ### Languages >
 
